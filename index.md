@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Hello world!
 ---
+# This is a test page
+Testing things as we test more
